@@ -15,14 +15,13 @@ scikit-image==0.18.3
 
 ## TRAINING
 
-set your training parameters.
+Modify and set training parameters.
 
 ### Train the teacher network:
 
 ```bash
 python train.py
 ```
-
 ### Train DLIENet:
 
 ```bash
@@ -32,7 +31,8 @@ python train_student.py
 
 ## Pretrained Models
 
-You can download pretrained models [here](#).
+[pretrained_model](#).
+
 
 ## TEST
 
