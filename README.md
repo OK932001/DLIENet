@@ -5,8 +5,10 @@
 ## Requirements
 
 ```bash
-python 3.8.10  
-pytorch 1.10.0  
+OS：Ubuntu 20.04.6
+nvdia 11.6
+python 3.7.1  
+pytorch 1.13.0  
 numpy==1.21.0  
 opencv-python==4.5.5.64  
 scikit-image==0.18.3  
@@ -35,6 +37,8 @@ python train_student.py
 
 
 ## TEST
+
+Modify and adjust testing parameters.
 
 ```bash
 python test.py
