@@ -45,4 +45,18 @@ python test.py
 ```
 
 
+## Citation
+
+If you find this work helpful, please consider citing our paper:
+
+```bibtex
+@article{zhang2025dlienet,
+  title={DLIENet: A lightweight low-light image enhancement network via knowledge distillation},
+  author={Zhang, Ling and Li, Zhenyu and Cheng, Liang and Zhang, Qing and Liu, Zheng and Zhang, Xiaolong and Xiao, Chunxia},
+  journal={Pattern Recognition},
+  pages={111777},
+  year={2025},
+  publisher={Elsevier}
+}
+
 
