@@ -33,7 +33,7 @@ python train_student.py
 
 ## Pretrained Models
 
-[pretrained_model](https://pan.baidu.com/s/1hrLHEqCxJE3PSUEg01nf8g?pwd=ccpg).
+[pretrained_model](https://pan.baidu.com/s/1kKye9CDXrKFMpD1pdPmjLw?pwd=9uya).
 
 
 ## TEST
