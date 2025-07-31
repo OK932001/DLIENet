@@ -58,5 +58,3 @@ If you find this work helpful, please consider citing our paper:
   year={2025},
   publisher={Elsevier}
 }
-
-
